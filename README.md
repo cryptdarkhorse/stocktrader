@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/github/license/yourusername/stock_trading_AI.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yourusername/stock_trading_AI.svg)](https://github.com/yourusername/stock_trading_AI/stargazers)
 
+##To try the app
+https://main.d318mfpii45gl0.amplifyapp.com/backtesting
+
+
 ## Overview
 
 **Stock Trading AI** is a robust React-based application designed to empower traders by providing tools for backtesting, live trading, and performance analysis. The app integrates real-time market data using the Alpha Vantage API, leverages technical analysis tools like candlestick pattern recognition, and performs essential trading calculations to assist in decision making. Whether you’re a beginner or a seasoned trader, this tool is built to enhance your trading strategy. 🤖💹
