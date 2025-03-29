@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/yourusername/stock_trading_AI.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yourusername/stock_trading_AI.svg)](https://github.com/yourusername/stock_trading_AI/stargazers)
 
-##To try the app
+## To try the App
 https://main.d318mfpii45gl0.amplifyapp.com/backtesting
 
 
